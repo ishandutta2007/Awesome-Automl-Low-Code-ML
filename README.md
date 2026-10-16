@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Automl-Low-Code-ML/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automl-Low-Code-ML"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Automl-Low-Code-ML?style=flat-square" alt="Last Commit"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -29,6 +30,8 @@
 - [🔄 Typical AutoML Workflow Architecture](#-typical-automl-workflow-architecture)
 - [🧭 Decision Framework: How to Choose](#-decision-framework-how-to-choose)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#--star-history)
 - [⚖️ Disclaimer & Governance](#️-disclaimer--governance)
 
 ---
@@ -170,6 +173,28 @@ Contributions from data scientists, software engineers, and researchers are warm
    - For SaaS tools: include exact starting price, free tier/trial limits, and company scale.
    - For open-source tools: include license and exact star badge (`style=social&color=white`).
 4. 📬 **Submit a Pull Request** with a clear description of the project.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing **Awesome AutoML & Low-Code ML**! 🌟
+
+If this curated repository helps you navigate the automated machine learning landscape, save development time, or discover tools for your team, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others in the AI/ML community discover it.
+- 🍴 **Fork and share** it with your network, team, and fellow data practitioners.
+- ☕ **Buy me a coffee**: If you'd like to support ongoing curation and maintenance, you can sponsor via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" /></a>
+</p>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Automl-Low-Code-ML&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Automl-Low-Code-ML&type=date&legend=top-left)
 
 ---
 
