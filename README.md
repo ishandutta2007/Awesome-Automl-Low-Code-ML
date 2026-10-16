@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automl-Low-Code-ML/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automl-Low-Code-ML?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automl-Low-Code-ML/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automl-Low-Code-ML?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automl-Low-Code-ML/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automl-Low-Code-ML?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automl-Low-Code-ML/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Automl-Low-Code-ML?style=flat-square" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automl-Low-Code-ML/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -69,66 +69,66 @@ A comprehensive tabular breakdown of leading commercial AutoML and low-code ML s
 ## 💻 Open-Source GitHub Projects
 
 Curated list of leading open-source AutoML libraries, low-code ML engines, automated feature engineering frameworks, and pipeline search packages.  
-Sorted strictly in **descending order by GitHub star count ⭐**:
+Sorted strictly in **descending order by GitHub Stars_Count ⭐**:
 
-1. **[MindsDB](https://github.com/mindsdb/mindsdb)** [![GitHub Stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=social&color=white)](https://github.com/mindsdb/mindsdb/stargazers)  
+1. **[MindsDB](https://github.com/mindsdb/mindsdb)** [![GitHub_Stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=social&color=white)](https://github.com/mindsdb/mindsdb/stargazers)  
    **The platform for building custom AI agents and low-code ML connected directly to enterprise data** *(GPL-3.0)*. Enables querying, training, and predicting directly inside PostgreSQL, MySQL, Snowflake, and MongoDB with standard SQL syntax.
 
-2. **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
+2. **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
    **Open-source platform to manage the ML lifecycle** *(Apache-2.0)*. Offers automated experiment tracking, model registry, reproducible packaging, evaluation, and simplified production deployment across cloud and on-prem targets.
 
-3. **[Optuna](https://github.com/optuna/optuna)** [![GitHub Stars](https://img.shields.io/github/stars/optuna/optuna?style=social&color=white)](https://github.com/optuna/optuna/stargazers)  
+3. **[Optuna](https://github.com/optuna/optuna)** [![GitHub_Stars](https://img.shields.io/github/stars/optuna/optuna?style=social&color=white)](https://github.com/optuna/optuna/stargazers)  
    **An open-source hyperparameter optimization framework** *(MIT)*. Features define-by-run API syntax, automated pruning algorithms (Successive Halving, Hyperband), parallel distributed optimization, and seamless integration with PyTorch, TensorFlow, LightGBM, and XGBoost.
 
-4. **[NNI (Neural Network Intelligence)](https://github.com/microsoft/nni)** [![GitHub Stars](https://img.shields.io/github/stars/microsoft/nni?style=social&color=white)](https://github.com/microsoft/nni/stargazers)  
+4. **[NNI (Neural Network Intelligence)](https://github.com/microsoft/nni)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/nni?style=social&color=white)](https://github.com/microsoft/nni/stargazers)  
    **Microsoft's automated machine learning toolkit** *(MIT)*. Powers neural architecture search (NAS), hyperparameter tuning, model compression (pruning/quantization), and feature engineering across heterogeneous clusters.
 
-5. **[Ludwig](https://github.com/ludwig-ai/ludwig)** [![GitHub Stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social&color=white)](https://github.com/ludwig-ai/ludwig/stargazers)  
+5. **[Ludwig](https://github.com/ludwig-ai/ludwig)** [![GitHub_Stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social&color=white)](https://github.com/ludwig-ai/ludwig/stargazers)  
    **Declarative low-code framework for building custom LLMs, neural networks, and tabular models** *(Apache-2.0)*. Originally built by Uber, it enables model training, fine-tuning, and deployment via declarative YAML configuration files with zero Python code required.
 
-6. **[Cleanlab](https://github.com/cleanlab/cleanlab)** [![GitHub Stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social&color=white)](https://github.com/cleanlab/cleanlab/stargazers)  
+6. **[Cleanlab](https://github.com/cleanlab/cleanlab)** [![GitHub_Stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social&color=white)](https://github.com/cleanlab/cleanlab/stargazers)  
    **The standard open-source library for data-centric AI and automated data quality** *(AGPL-3.0)*. Automatically finds and fixes label errors, outliers, and dataset issues in tabular, text, audio, and vision data to maximize downstream AutoML accuracy.
 
-7. **[AutoGluon](https://github.com/autogluon/autogluon)** [![GitHub Stars](https://img.shields.io/github/stars/autogluon/autogluon?style=social&color=white)](https://github.com/autogluon/autogluon/stargazers)  
+7. **[AutoGluon](https://github.com/autogluon/autogluon)** [![GitHub_Stars](https://img.shields.io/github/stars/autogluon/autogluon?style=social&color=white)](https://github.com/autogluon/autogluon/stargazers)  
    **Fast and accurate ML in 3 lines of code** *(Apache-2.0)*. Developed by AWS, AutoGluon leads academic benchmarks across tabular, time-series, multimodal, and image tasks through multi-layer model stacking and automated feature engineering.
 
-8. **[TPOT](https://github.com/EpistasisLab/tpot)** [![GitHub Stars](https://img.shields.io/github/stars/EpistasisLab/tpot?style=social&color=white)](https://github.com/EpistasisLab/tpot/stargazers)  
+8. **[TPOT](https://github.com/EpistasisLab/tpot)** [![GitHub_Stars](https://img.shields.io/github/stars/EpistasisLab/tpot?style=social&color=white)](https://github.com/EpistasisLab/tpot/stargazers)  
    **Tree-based Pipeline Optimization Tool** *(LGPL-3.0)*. Automates machine learning pipeline design using genetic programming; optimizes feature selectors, preprocessors, and models, exporting fully readable scikit-learn Python code.
 
-9. **[PyCaret](https://github.com/pycaret/pycaret)** [![GitHub Stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social&color=white)](https://github.com/pycaret/pycaret/stargazers)  
+9. **[PyCaret](https://github.com/pycaret/pycaret)** [![GitHub_Stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social&color=white)](https://github.com/pycaret/pycaret/stargazers)  
    **The leading low-code machine learning library in Python** *(MIT)*. Combines a scikit-learn-native core with an intuitive API (`setup` → `compare_models` → `tune_model` → `deploy_model`) and a browser-based web control plane.
 
-10. **[AutoKeras](https://github.com/keras-team/autokeras)** [![GitHub Stars](https://img.shields.io/github/stars/keras-team/autokeras?style=social&color=white)](https://github.com/keras-team/autokeras/stargazers)  
+10. **[AutoKeras](https://github.com/keras-team/autokeras)** [![GitHub_Stars](https://img.shields.io/github/stars/keras-team/autokeras?style=social&color=white)](https://github.com/keras-team/autokeras/stargazers)  
     **AutoML system based on Keras** *(Apache-2.0)*. Developed by Texas A&M DATA Lab and Google, AutoKeras automates deep neural architecture search (NAS) for image, text, and structured data tasks.
 
-11. **[Auto-sklearn](https://github.com/automl/auto-sklearn)** [![GitHub Stars](https://img.shields.io/github/stars/automl/auto-sklearn?style=social&color=white)](https://github.com/automl/auto-sklearn/stargazers)  
+11. **[Auto-sklearn](https://github.com/automl/auto-sklearn)** [![GitHub_Stars](https://img.shields.io/github/stars/automl/auto-sklearn?style=social&color=white)](https://github.com/automl/auto-sklearn/stargazers)  
     **Automated machine learning with scikit-learn** *(BSD-3-Clause)*. Leverages Bayesian optimization, meta-learning, and automated ensemble construction to build competitive tabular pipelines.
 
-12. **[Featuretools](https://github.com/alteryx/featuretools)** [![GitHub Stars](https://img.shields.io/github/stars/alteryx/featuretools?style=social&color=white)](https://github.com/alteryx/featuretools/stargazers)  
+12. **[Featuretools](https://github.com/alteryx/featuretools)** [![GitHub_Stars](https://img.shields.io/github/stars/alteryx/featuretools?style=social&color=white)](https://github.com/alteryx/featuretools/stargazers)  
     **Automated feature engineering framework for relational datasets** *(BSD-3-Clause)*. Uses Deep Feature Synthesis (DFS) to automatically extract hundreds of temporal and aggregated features from multi-table databases.
 
-13. **[Hyperopt](https://github.com/hyperopt/hyperopt)** [![GitHub Stars](https://img.shields.io/github/stars/hyperopt/hyperopt?style=social&color=white)](https://github.com/hyperopt/hyperopt/stargazers)  
+13. **[Hyperopt](https://github.com/hyperopt/hyperopt)** [![GitHub_Stars](https://img.shields.io/github/stars/hyperopt/hyperopt?style=social&color=white)](https://github.com/hyperopt/hyperopt/stargazers)  
     **Distributed asynchronous hyperparameter optimization in Python** *(BSD-3-Clause)*. Implements the Tree-structured Parzen Estimator (TPE) algorithm for rapid tuning of complex algorithm spaces.
 
-14. **[H2O-3 / H2O AutoML](https://github.com/h2oai/h2o-3)** [![GitHub Stars](https://img.shields.io/github/stars/h2oai/h2o-3?style=social&color=white)](https://github.com/h2oai/h2o-3/stargazers)  
+14. **[H2O-3 / H2O AutoML](https://github.com/h2oai/h2o-3)** [![GitHub_Stars](https://img.shields.io/github/stars/h2oai/h2o-3?style=social&color=white)](https://github.com/h2oai/h2o-3/stargazers)  
     **Scalable, distributed in-memory machine learning engine** *(Apache-2.0)*. Features automated algorithm portfolios, stacked ensembles, and MOJO artifact generation for real-time microsecond inference in Java/C++.
 
-15. **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub Stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social&color=white)](https://github.com/Giskard-AI/giskard/stargazers)  
+15. **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub_Stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social&color=white)](https://github.com/Giskard-AI/giskard/stargazers)  
     **Open-source testing and evaluation for ML and LLM models** *(Apache-2.0)*. Automatically uncovers performance vulnerabilities, data leakage, model bias, and hallucinations with interactive QA dashboards.
 
-16. **[FLAML](https://github.com/microsoft/FLAML)** [![GitHub Stars](https://img.shields.io/github/stars/microsoft/FLAML?style=social&color=white)](https://github.com/microsoft/FLAML/stargazers)  
+16. **[FLAML](https://github.com/microsoft/FLAML)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/FLAML?style=social&color=white)](https://github.com/microsoft/FLAML/stargazers)  
     **Fast and lightweight AutoML library by Microsoft Research** *(MIT)*. Budget-aware model search that optimizes performance under strict training time and compute constraints.
 
-17. **[MLJAR AutoML (mljar-supervised)](https://github.com/mljar/mljar-supervised)** [![GitHub Stars](https://img.shields.io/github/stars/mljar/mljar-supervised?style=social&color=white)](https://github.com/mljar/mljar-supervised/stargazers)  
+17. **[MLJAR AutoML (mljar-supervised)](https://github.com/mljar/mljar-supervised)** [![GitHub_Stars](https://img.shields.io/github/stars/mljar/mljar-supervised?style=social&color=white)](https://github.com/mljar/mljar-supervised/stargazers)  
     **Tabular automated machine learning with comprehensive Markdown reports** *(Apache-2.0)*. Emphasizes transparency and explainability with automated SHAP plots, feature importance trees, and ensembling.
 
-18. **[TransmogrifAI](https://github.com/salesforce/TransmogrifAI)** [![GitHub Stars](https://img.shields.io/github/stars/salesforce/TransmogrifAI?style=social&color=white)](https://github.com/salesforce/TransmogrifAI/stargazers)  
+18. **[TransmogrifAI](https://github.com/salesforce/TransmogrifAI)** [![GitHub_Stars](https://img.shields.io/github/stars/salesforce/TransmogrifAI?style=social&color=white)](https://github.com/salesforce/TransmogrifAI/stargazers)  
     **Salesforce's AutoML library running on Apache Spark** *(BSD-3-Clause)*. Written in Scala for big data processing, automating feature inference, transformation, and model validation across massive enterprise data lakes.
 
-19. **[EvalML](https://github.com/alteryx/evalml)** [![GitHub Stars](https://img.shields.io/github/stars/alteryx/evalml?style=social&color=white)](https://github.com/alteryx/evalml/stargazers)  
+19. **[EvalML](https://github.com/alteryx/evalml)** [![GitHub_Stars](https://img.shields.io/github/stars/alteryx/evalml?style=social&color=white)](https://github.com/alteryx/evalml/stargazers)  
     **Alteryx's open-source library for automated pipeline construction and evaluation** *(BSD-3-Clause)*. Builds, optimizes, and evaluates ML pipelines using custom domain objective functions.
 
-20. **[dabl (Data Analytics Baseline Library)](https://github.com/dabl/dabl)** [![GitHub Stars](https://img.shields.io/github/stars/dabl/dabl?style=social&color=white)](https://github.com/dabl/dabl/stargazers)  
+20. **[dabl (Data Analytics Baseline Library)](https://github.com/dabl/dabl)** [![GitHub_Stars](https://img.shields.io/github/stars/dabl/dabl?style=social&color=white)](https://github.com/dabl/dabl/stargazers)  
     **Exploratory data analysis and fast baseline modeling** *(BSD-3-Clause)*. Created by Andreas Mueller (scikit-learn core dev) for rapid 1-line data visualization and automated simple baseline models.
 
 ---
@@ -171,7 +171,7 @@ Contributions from data scientists, software engineers, and researchers are warm
 3. 📝 **Add or update the tool entry** adhering to the existing format:
    - Provide direct links to official documentation or GitHub repos.
    - For SaaS tools: include exact starting price, free tier/trial limits, and company scale.
-   - For open-source tools: include license and exact star badge (`style=social&color=white`).
+   - For open-source tools: include license and exact Stars_Badge (`style=social&color=white`).
 4. 📬 **Submit a Pull Request** with a clear description of the project.
 
 ---
